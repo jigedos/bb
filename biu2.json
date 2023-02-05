@@ -131,12 +131,12 @@
       "url": "http://www.zzrhgg.com/api.php"
     },
     {
-      "name": "快播影院",
-      "url": "http://www.kuaibozy.com/api.php"
+      "name": "fuqizhishi",
+      "url": "https://play.fuqizhishi.com/jx2/API.php"
     },
     {
-      "name": "KK站采集",
-      "url": "http://kkzy5.com/api.php"
+      "name": "RX",
+      "url": "http://rxjx.kuanjv.com/allm3u8.php"
     },
     {
       "name": "酷点资源(切)",
@@ -168,6 +168,22 @@
     }
   ],
   "zhujiexi": [
+      {
+		"name": "rx6",
+			"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+  	}, 
+      {
+      "name": "jx100",
+      "url": "https://jx.xmflv.com/?url="
+        },
+
+         {
+          "name": "rongxing7",
+                 "url": "https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url="},
+          {
+		"name": "rx2",
+		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+	},        
     {
       "name": "酷云",
       "url": "http://101.34.67.237:5705/parse/api/酷云.js?url="
