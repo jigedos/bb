@@ -93,48 +93,7 @@
   "zhuyejiekou": [
   {
       "name": "【非凡工具箱】",
-      "url": "https://www.jiajia.pub/api.php/v1.vod"
-    },
-    {
-      "name": "段友影视",
-      "url": "http://js.66app.me/api.php/app/"
-    },
-    {
-      "name": "万能影院",
-      "url": "http://app.wnvod.net/lvdou_api.php/v1.vod"
-    },
-    {
-      "name": "爱酷影院",
-      "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
-    },
-    {
-      "name": "万能影院",
-      "url": "http://app.wnvod.net/lvdou_api.php/v1.vod"
-    },
-    {
-      "name": "创意影院",
-      "url": "https://www.30dian.cn/api.php/v1.vod"
-    },
-    {
-      "name": "段友影院",
-      "url": "http://js.66app.me/api.php/app/"
-    },
-  
-    {
-      "name": "群鑫影院",
-      "url": "http://www.qunxinys.com/api.php/v1.vod"
-    },
-    {
-      "name": "全球星",
-      "url": "http://www.mzok.cn/api.php/v1.vod"
-    },
-    {
-      "name": "夕阳影院",
-      "url": "http://cms.seo-tv.work/mogai_api.php/v1.vod"
-    },
-    {
-      "name": "豆芽视频",
-      "url": "http://bdintv.cn/lvdou_api.php/v1.vod"
+         "url": "https://www.30dian.cn/api.php/v1.vod"
     }
   ],
   "caijizhan": [
@@ -142,25 +101,18 @@
       "name": "【非凡工具箱】",
       "url": "http://anltv.cn/api.php"
     },
-    {
-      "name": "天堂影院",
-      "url": "http://vipmv.cc/api.php"
-    },
-    {
-      "name": "小猫咪(官)",
-      "url": "http://zy.xiaomaomi.cc/api.php"
-    },
+    
     {
       "name": "1080资源库(切)",
       "url": "https://api.1080zyku.com/inc/api_mac10.php"
     },
     {
-      "name": "快车资源(切)",
-      "url": "https://caiji.kczyapi.com/api.php"
+      "name": "百度",
+      "url": "https://api.apibdzy.com/api.php"
     },
     {
-      "name": "FOX资源(切)",
-      "url": "https://api.foxzyapi.com/api.php"
+      "name": "快播",
+      "url": "https://www.kuaibozy.com/api.php"
     },
     {
       "name": "卧龙资源(切)",
