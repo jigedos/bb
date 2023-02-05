@@ -28,7 +28,7 @@
 
 //填写采集接口
 "caijizhan": [
-{"name":"酷云77","url":"http://api.kunyu77.com/api.php"},
+{"name":"{公众号：非凡工具箱}","url":"http://api.kunyu77.com/api.php"},
 {"name":"🍇樱花资源","url":"https://m3u8.apiyhzy.com/api.php"},
 {"name":"🍇易看资源","url":"https://api.yikanapi.com/api.php"},
 {"name":"🍇酷点资源","url":"https://kudianzy.com/api.php"},
