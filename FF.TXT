@@ -11,7 +11,7 @@
 ],
 
 "zhuyejiekou": [
-{"name":"👑工众號：應佣多多","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
+{"name":"🚀战狼,"url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
 {"name":"🚀嗷呜视频","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"🚀苍-蓝影院","url":"https://vip.ruifenglb.com:4433/api.php/app/"},
 {"name":"🚀七彩影院","url":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
@@ -122,7 +122,7 @@
 "guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com#pap.html#baidu.com#tootw.com#auete.com#douyin",
  
 "zidingyi": [
-{"name": "👑工众号：appsduoduo",
+{"name": "👑酷云",
 "url": "",
 "ua": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; MI 9 Build/LMY48Z)",
 "User": "空",
