@@ -6,8 +6,7 @@
 {"key":"直播","title":"电视直播","pic":"https://i.niupic.com/images/2022/10/03/a5Zf.jpg"},
 {"key":"历史","title":"历史记录","pic":"https://i.niupic.com/images/2022/10/03/a5Zg.jpg"},
 {"key":"收藏","title":"我的收藏","pic":"https://i.niupic.com/images/2022/10/03/a5Zh.jpg"},
-{"key":"推送","title":"远程推送","pic":"https://i.niupic.com/images/2022/10/03/a5Zi.jpg"},
-{"key":"工众号：appsduoduo","title":"工众号：appsduoduo","pic":"https://i.niupic.com/images/2022/10/03/a5Zj.jpg"}
+{"key":"推送","title":"远程推送","pic":"https://i.niupic.com/images/2022/10/03/a5Zi.jpg"}
 ],
 
 "zhuyejiekou": [
