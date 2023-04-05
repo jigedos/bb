@@ -745,7 +745,7 @@ SiTV金色频道,http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mn
 SiTV七彩戏剧,http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
 SiTV东方财经,http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
 
-📀音乐,#genre#
+📀｜音乐,#genre#
 Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
 Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
 SNH48剧场,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
@@ -1080,7 +1080,7 @@ DJ 流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/162
 草原汉子,http://em.21dtv.com/songs/60110047.mkv
 
 
-👫MTV,#genre#
+👫｜MTV,#genre#
 草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
 草蜢-忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
 草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
@@ -1711,7 +1711,7 @@ NewTV中国功夫[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
 
-影视·HBO,#genre#
+影视｜HBO,#genre#
 HBO 2 Romania,https://epg.pw/stream/394029a01406c9c23214dc7291d84edf4f2ed28ad37a7393862426199f4aafae.ctv
 HBO,https://epg.pw/stream/9ec7c48c52f72d0c456e90874d07d8f38f80c1909b7785a5b2e8361d3417e72e.ctv
 HBO,https://epg.pw/stream/b0235fedee6fc37aa2cf03f886d3fd88d1aae6ccf812b96d2f24f8d26b1de376.ctv
@@ -1769,7 +1769,7 @@ HBO+,http://15.235.10.31:14410
 HBO+,http://15.235.10.31:14411
 
 
-影视·Globo,#genre#
+影视｜Globo,#genre#
 TV Globo,http://15.235.10.31:14330
 TV Globo,http://15.235.10.31:14331
 Futura,http://15.235.10.31:14336
@@ -1818,7 +1818,7 @@ Studio Universal,http://15.235.10.31:14778
 Studio Universal,http://15.235.10.31:14779
 Studio Universal,http://15.235.10.31:14781
 
-体育·国际,#genre#
+体育｜国际,#genre#
 天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 天空体育 综合,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7337/index.m3u8
 天空体育 英超,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
@@ -2065,7 +2065,7 @@ DUBAI SPORTS,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.sm
 半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Abu Dhabi Sports ,http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-影视·4K,#genre#
+影视｜4K,#genre#
 咪咕体育 4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 Astro Super Sport 4K,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
@@ -2104,7 +2104,7 @@ CCTV5,http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channe
 CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 
 
-影视·3D,#genre#
+影视｜3D,#genre#
 3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
 3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
 3d4,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
@@ -2134,7 +2134,7 @@ X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizu
 星球大战9,https://vd3.bdstatic.com/mda-ndfj480755j9juhe/cae_h264_delogo/1650116825326935651/mda-ndfj480755j9juhe.mp4
 MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
 
-电台·中广,#genre#
+电台｜中广,#genre#
 中广新闻,http://n12.rcs.revma.com/78fm9wyy2tzuv
 中广音乐,http://n07.rcs.revma.com/ks4vsmg3qtzuv
 中广流行,http://n14.rcs.revma.com/aw9uqyxy2tzuv
@@ -2219,7 +2219,7 @@ CRI 轻松调频,http://sk.cri.cn/915.m3u8
 CRI 粤语国际,http://sk.cri.cn/hxfh.m3u8
 
 
-电台·音乐,#genre#
+电台｜音乐,#genre#
 AsiaFM 亚洲音乐,http://asiafm.hk:8000/asiafm
 AsiaFM 亚洲热歌,http://asiafm.net:8000/asiafmhot
 AsiaFM 亚洲经典,http://goldfm.cn:8000/goldfm
