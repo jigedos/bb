@@ -111,7 +111,7 @@ CCTV-卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012
 
  
 
-🇹🇼省市,#genre#
+test,#genre#
 民視,rtmp://119.81.124.89/sat/tv051
 台視,rtmp://119.81.124.89/sat/tv071
 中視,rtmp://119.81.124.89/sat/tv091
@@ -278,9 +278,7 @@ AOD,http://162.19.247.76:22222/live/uch7/index.m3u8
 翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
 无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
 j2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
-
-
-🇹🇼晴天,#genre#
+sun,#genre#
 MTV Live,mitv://generationnexxxt.com:19806/644b68b5000c14aa2865d9c1567d521e
 Mezzo Live,mitv://generationnexxxt.com:19806/35c919f9094445e98749b1511bb4aaf4
 CLASSICA 古典乐,mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec263175
