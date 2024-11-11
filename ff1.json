@@ -468,7 +468,7 @@
       "type": 1,
       "api": "https://pg.fenwe078.cf/api.php/provide/vod",
       "categories": [
-        "国产剧"
+        "电影","连续剧","动漫","综艺"
       ]
     },
    
@@ -496,7 +496,7 @@
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod",
       "categories": [
-        "大陆剧"
+        "电影","连续剧","动漫","综艺","纪录片","短剧"
       ]
     },
     {
@@ -505,7 +505,7 @@
       "type": 1,
       "api": "https://api.wujinapi.com/api.php/provide/vod/",
       "categories": [
-        "国产剧"
+         "电影","连续剧","动漫","综艺","纪录片","短剧"
       ]
     },
     {
@@ -514,7 +514,7 @@
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "categories": [
-        "国产剧"
+        "电影","连续剧","动漫","综艺","电影解说","体育赛事","短剧"
       ]
     },
     {
@@ -523,7 +523,33 @@
       "type": 1,
       "api": "https://p2100.net/api.php/provide/vod",
       "categories": [
-        "国产剧"
+        "电影",
+"连续剧",
+"综艺",
+"动漫",
+"动作片",
+"喜剧片",
+"爱情片",
+"科幻片",
+"恐怖片",
+"剧情片",
+"战争片",
+"国产剧",
+"香港剧",
+"台湾剧",
+"日本剧",
+"韩国剧",
+"欧美剧",
+"海外剧",
+"短剧",
+"理论片",
+"纪录片",
+"邵氏大片",
+"站内新闻",
+"娱乐动态",
+"八卦爆料",
+"影片资讯",
+"动漫电影"
       ]
     },
     {
