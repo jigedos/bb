@@ -471,15 +471,7 @@
         "国产剧"
       ]
     },
-    {
-      "key": "优看",
-      "name": "优看┃影视",
-      "type": 1,
-      "api": "https://api.ukuapi.com/api.php/provide/vod",
-      "categories": [
-        "国产剧"
-      ]
-    },
+   
     {
       "key": "神马",
       "name": "神马┃影视",
@@ -495,7 +487,7 @@
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod",
       "categories": [
-        "国产剧"
+"电影","连续剧","动漫","综艺","电影解说","体育赛事","短剧"
       ]
     },
     {
