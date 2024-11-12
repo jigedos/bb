@@ -19,17 +19,12 @@
       "filterable": 0,
       "ext": "https://codeberg.org/yuan/tvbox/raw/branch/main/douban.js"
     },
-    {
-      "key": "guoguo",
-      "name": "果果┃影视",
+  {
+      "key": "csp_瓜子",
+      "name": "瓜子┃影视",
+      "api": "csp_Gz360",
       "type": 3,
-      "api": "https://codeberg.org/yuan/tvbox/raw/branch/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/yuan301/tv/raw/master/jar/gg.js"
+      "jar": "https://gitee.com/yuan301/tv/raw/master/jar/mi.jar"
     },
     {
       "key": "hipy_js_腾云驾雾[官]",
@@ -55,25 +50,8 @@
       "ext": "",
       "jar": "https://gitee.com/yuan301/tv/raw/master/jar/mi0927.jar"
     },
-    {
-      "key": "csp_subaobai",
-      "name": "素白┃影视",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_SuBaiBai",
-      "playerType": 1,
-      "jar": "https://gitee.com/yuan301/tv/raw/master/jar/mi0924.jar",
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "csp_瓜子",
-      "name": "瓜子┃影视",
-      "api": "csp_Gz360",
-      "type": 3,
-      "jar": "https://gitee.com/yuan301/tv/raw/master/jar/mi.jar"
-    },
+  
+  
     {
       "key": "csp_yigeg",
       "name": "一个┃影视",
@@ -98,15 +76,7 @@
       "api": "csp_Tvyb",
       "jar": "https://gitee.com/yuan301/tv/raw/master/jar/mi.jar"
     },
-    {
-      "key": "csp_Czsapp",
-      "name": "厂长┃影视",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "jar": "https://gitee.com/yuan301/tv/raw/master/jar/mi1008.jar",
-      "playerType": 2,
-      "ext": "https://www.czzy.site/"
-    },
+  
     {
       "key": "文采",
       "name": "文采┃影视",
@@ -143,61 +113,8 @@
       "filterable": 1,
       "jar": "https://gitee.com/yuan301/tv/raw/master/jar/24108.jar"
     },
-    {
-      "key": "AI4",
-      "name": "云上┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
-    },
-    {
-      "key": "量子",
-      "name": "量子┃影视",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "体育",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克"
-      ]
-    },
+  
+   
     {
       "key": "非凡",
       "name": "非凡┃影视",
