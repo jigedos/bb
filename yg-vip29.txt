@@ -176,7 +176,7 @@
 
 
 
-"dianshizhibo": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ysztcn/ysztcn.github.io/master/biubiu/zb.txt",
+"dianshizhibo": "https://gitdl.cn/https://raw.githubusercontent.com/jigedos/bb/main/bbzb.txt",
 
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 "guolvdizhi": "51.la#?url=#cnzz.com",
