@@ -1,56 +1,28 @@
 {
   "storeHouse": [
     {
-      "sourceName": "毒盒备用仓",
-      "sourceUrl": "https://youdu.fan/DC.txt"
-    },
-    {
       "sourceName": "毒盒主仓",
       "sourceUrl": "https://tv.youdu.fan:666"
     },
     {
-      "sourceName": "恒星育华学堂多仓",
-      "sourceUrl": "http://恒星.net/ZC.json"
+      "sourceName": "挺好单仓",
+      "sourceUrl": "http://ztha.top/TVBox/GYCK.json"
     },
     {
-      "sourceName": "摸鱼仓",
-      "sourceUrl": "http://小鱼干.摸鱼儿.top"
+      "sourceName": "码点仓",
+      "sourceUrl": "http://120.79.4.185/dc.json"
     },
     {
-      "sourceName": "讴歌单仓",
-      "sourceUrl": "https://xn--teet-rp5imh.v.nxog.top/api.php?id=2"
-    },
-    {
-      "sourceName": "讴歌多仓",
-      "sourceUrl": "https://xn--yaay-rp5imh.v.nxog.top/api.php?id=1"
-    },
-    {
-      "sourceName": "欧歌多仓",
-      "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=1&b=白嫖小蚂蚁"
-    },
-    {
-      "sourceName": "全网影视仓",
-      "sourceUrl": "http://ww.weidonglong.com/ysc50311.json"
-    },
-    {
-      "sourceName": "天微仓备用二",
-      "sourceUrl": "http://xhztv.top/dc"
-    },
-    {
-      "sourceName": "天微仓备用一",
+      "sourceName": "西夏仓",
       "sourceUrl": "http://xhztv.top/DC.txt"
     },
     {
-      "sourceName": "天微仓主用",
-      "sourceUrl": "http://tvkj.top/DC.txt"
+      "sourceName": "潇洒单仓",
+      "sourceUrl": "https://9877.kstore.space/FourDS/api.json"
     },
     {
-      "sourceName": "无邪优选多仓",
-      "sourceUrl": "https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master"
-    },
-    {
-      "sourceName": "西夏影视仓",
-      "sourceUrl": "https://d.kstore.space/download/2912/xx888.json"
+      "sourceName": "金鹰单仓",
+      "sourceUrl": "http://530.my3v.work/968.json"
     },
     {
       "sourceName": "小白龙多仓",
@@ -61,12 +33,12 @@
       "sourceUrl": "http://xhztv.top/tvbox.txt"
     },
     {
-      "sourceName": "影视单仓Box",
-      "sourceUrl": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json"
-    },
-    {
       "sourceName": "月光接口二（多仓）",
       "sourceUrl": "http://ygbh.site/max.php"
+    },
+    {
+      "sourceName": "天命人仓",
+      "sourceUrl": "https://10988.kstore.space/~vip/yy00.json"
     },
     {
       "sourceName": "福利仓",
