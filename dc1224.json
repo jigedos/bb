@@ -1,0 +1,80 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "毒盒备用仓",
+      "sourceUrl": "https://youdu.fan/DC.txt"
+    },
+    {
+      "sourceName": "毒盒主仓",
+      "sourceUrl": "https://tv.youdu.fan:666"
+    },
+    {
+      "sourceName": "恒星育华学堂多仓",
+      "sourceUrl": "http://恒星.net/ZC.json"
+    },
+    {
+      "sourceName": "摸鱼仓",
+      "sourceUrl": "http://小鱼干.摸鱼儿.top"
+    },
+    {
+      "sourceName": "讴歌单仓",
+      "sourceUrl": "https://xn--teet-rp5imh.v.nxog.top/api.php?id=2"
+    },
+    {
+      "sourceName": "讴歌多仓",
+      "sourceUrl": "https://xn--yaay-rp5imh.v.nxog.top/api.php?id=1"
+    },
+    {
+      "sourceName": "欧歌多仓",
+      "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=1&b=白嫖小蚂蚁"
+    },
+    {
+      "sourceName": "全网影视仓",
+      "sourceUrl": "http://ww.weidonglong.com/ysc50311.json"
+    },
+    {
+      "sourceName": "天微仓备用二",
+      "sourceUrl": "http://xhztv.top/dc"
+    },
+    {
+      "sourceName": "天微仓备用一",
+      "sourceUrl": "http://xhztv.top/DC.txt"
+    },
+    {
+      "sourceName": "天微仓主用",
+      "sourceUrl": "http://tvkj.top/DC.txt"
+    },
+    {
+      "sourceName": "无邪优选多仓",
+      "sourceUrl": "https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master"
+    },
+    {
+      "sourceName": "西夏影视仓",
+      "sourceUrl": "https://d.kstore.space/download/2912/xx888.json"
+    },
+    {
+      "sourceName": "小白龙多仓",
+      "sourceUrl": "http://39.101.135.137:8686"
+    },
+    {
+      "sourceName": "小盒子仓",
+      "sourceUrl": "http://xhztv.top/tvbox.txt"
+    },
+    {
+      "sourceName": "影视单仓Box",
+      "sourceUrl": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json"
+    },
+    {
+      "sourceName": "月光接口二（多仓）",
+      "sourceUrl": "http://ygbh.site/max.php"
+    },
+    {
+      "sourceName": "福利仓",
+      "sourceUrl": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/%E6%B5%B7%E5%85%B5%E7%A6%8F%E5%88%A9.json"
+    },
+    {
+      "sourceName": "月光接口一（多仓）",
+      "sourceUrl": "http://ygbh.site/plus.php"
+    }
+  ]
+}
